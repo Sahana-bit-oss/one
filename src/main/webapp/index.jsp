@@ -7,6 +7,9 @@
 	<h4 style = "color: black; font-size : 20px;" algin = "left"> 		Jenkins is a Java-based open-source automation platform with plugins
 designed for continuous integration. It is used to continually create and test software projects, making it easier for developers and 
 DevOps engineers to integrate changes to the project and for consumers to get a new build.</h4>
+	<h5 style = "color: black; font-size : 20px;" algin = "left"> 		Jenkins is an open source automation server. It helps 
+automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, 
+and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat.</h5>
 	
 	
 	
